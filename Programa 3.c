@@ -1,7 +1,3 @@
-/*Salazar Anicasiop Joshua
-Práctica 11
-Programa 3*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #define a 10
